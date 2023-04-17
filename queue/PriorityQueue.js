@@ -1,3 +1,8 @@
+/* 
+  V1 implementation: sorting by priority value on array
+  V2 implementation: using priority as a attribute to sort by it, creating a tree as result
+*/
+
 class PriorityQueue {
   #queue;
 
